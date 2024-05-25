@@ -1,0 +1,11 @@
+"use strict";
+var msg = 'Hello Ts';
+var msg2 = 'Tata Js';
+console.log(msg, msg2, language);
+//const myName: string = "Shoun";
+//const myName: "Shoun" = "Shoun";
+var myName = "Shoun";
+myName = 'kaosar';
+var age = 29;
+age = false;
+age = {};
