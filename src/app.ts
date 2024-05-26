@@ -1,7 +1,7 @@
 
 const msg = 'Hello Ts'
 const msg2 = 'Tata Js'
-console.log(msg, msg2, language);
+console.log(msg, msg2);
 
 //const myName: string = "Shoun";
 //const myName: "Shoun" = "Shoun";
